@@ -5,6 +5,7 @@ def fizzbuzz(num)
     "Fizz"
     if num % 5 == 0
       "Buzz"
+    end
   end
 end
 
