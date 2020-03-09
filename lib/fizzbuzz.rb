@@ -7,5 +7,5 @@ def fizzbuzz(num)
 end
 
 
-fizzbuzz(3)
-fizzbuzz(9)
+p fizzbuzz(3)
+ p fizzbuzz(9)
