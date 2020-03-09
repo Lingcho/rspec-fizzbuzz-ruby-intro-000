@@ -12,4 +12,4 @@ end
 
 p fizzbuzz(3)
  p fizzbuzz(9)
- p fizzbuzz(10)
+ p fizzbuzz(5)
